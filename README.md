@@ -1,5 +1,7 @@
 # Object_Detection_through_streamlit 
 
+Object Detection with Yolo7 and accessing it through Streamlit. 
+
 We will run the code and  will write the following command in VS code terminal 
 
               python -m streamlit run streamlit_yolo.py
