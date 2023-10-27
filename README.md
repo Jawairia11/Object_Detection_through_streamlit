@@ -1,4 +1,4 @@
-# Object_Detection_through_streamlit
+# Object_Detection_through_streamlit 
 
 We will run the code and  will write the following command in VS code terminal 
 
