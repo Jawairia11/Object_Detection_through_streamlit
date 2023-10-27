@@ -1,8 +1,10 @@
 # Object_Detection_through_streamlit
 
-we will write the following command in VS code terminal
+We will run the code and  will write the following command in VS code terminal 
 
               python -m streamlit run streamlit_yolo.py
+
+it will show the IP and network addresses . The will copy the IP address and will run it in the browser. Upon uploading any image will get the output image that will detect the objects in the image.
               
 # Output  Image
 
